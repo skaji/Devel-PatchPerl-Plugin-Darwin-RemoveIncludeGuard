@@ -47,6 +47,9 @@
       "Devel::PatchPerl::Plugin::Darwin::RemoveIncludeGuard" : {
          "file" : "lib/Devel/PatchPerl/Plugin/Darwin/RemoveIncludeGuard.pm",
          "version" : "0.001"
+      },
+      "Devel::PatchPerl::Plugin::Darwin::RemoveIncludeGuard::Share" : {
+         "file" : "lib/Devel/PatchPerl/Plugin/Darwin/RemoveIncludeGuard/Share.pm"
       }
    },
    "release_status" : "stable",
